@@ -1,0 +1,8 @@
+Validar unidades es float
+Validar precio es float
+
+No introducir precio si unidades es igual 0
+
+——
+C = (F - 32) * 5/9
+F = C * 9/5 + 32
